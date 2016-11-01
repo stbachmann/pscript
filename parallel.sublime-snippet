@@ -1,0 +1,13 @@
+<snippet>
+    <content>
+    	<![CDATA[ParallelBegin
+	$0
+ParallelEnd]]>
+		</content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>Parallel</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.pscript</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Parallel Command</description>
+</snippet>

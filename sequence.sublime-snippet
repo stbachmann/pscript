@@ -1,0 +1,13 @@
+<snippet>
+    <content>
+    	<![CDATA[SequenceBegin
+	$0
+SequenceEnd]]>
+		</content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>Sequence</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.pscript</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Sequence Command</description>
+</snippet>

@@ -1,0 +1,15 @@
+{
+    "scope": "source.pscript",
+    "completions": [
+        "FlingObject(\"${1:object-id}\",${2:1.0}, ${3:5.0})",
+        "WaitForInput",
+        "Dialog(${1:entity[0:0]}, \"${2:blabla}\")",
+        "Wait(${2:1.0})",
+        "MoveTo(${1:entity[0:0]}, ${2:x}, ${3:y})",
+        "ChangeDirection(${1:entity[0:0]}, ${2:direction})",
+        "ChangeAnim(${1:entity[0:0]}, \"${2:anim-name}\")",
+        "ChangeSprite(\"${1:object-id}\", \"${2:sprite-name}\")",
+        "SetActive(\"${1:object-id}\", ${2:false})",
+        "SetDoor(\"${1:object-id}\", ${2:true})",
+	]
+}
