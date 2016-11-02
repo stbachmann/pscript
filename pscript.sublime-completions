@@ -10,7 +10,7 @@
         "ChangeAnim(${1:entity[0:0]}, \"${2:anim-name}\")",
         "ChangeSprite(\"${1:object-id}\", \"${2:sprite-name}\")",
         "SetVisible(\"${1:object-id}\", ${2:false})",
-        "SetInteractable(\"${1:object-id}\", ${2:false})",
+        "SetActive(\"${1:object-id}\", ${2:true})",
         "SetDoor(\"${1:object-id}\", ${2:true})",
 	]
 }
