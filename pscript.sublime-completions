@@ -12,6 +12,7 @@
         "SetVisible(\"${1:object-id}\", ${2:false})",
         "SetActive(\"${1:object-id}\", ${2:true})",
         "SetDoor(\"${1:object-id}\", ${2:true})",
-        "RunScript(\"${1:object-id}\")"
+        "RunScript(\"${1:object-id}\")",
+        "NextLevel"
 	]
 }
