@@ -12,7 +12,7 @@
         "SetVisible(\"${1:object-id}\", ${2:false})",
         "SetActive(\"${1:object-id}\", ${2:true})",
         "SetBoolean(\"${1:var-id}\", ${2:true})",
-        "SetAttributeActive(\"${1:attr.class}\", ${2:true})",
+        "SetAttributeActive(\"${1:object-id}\", \"${1:attr.class}\", ${2:true})",
         "SetDoor(\"${1:object-id}\", ${2:true})",
         "RunScript(\"${1:object-id}\")",
         "NextLevel"
