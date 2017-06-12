@@ -18,6 +18,7 @@
         "RunScript(\"${1:object-id}\")",
         "PlaySound(\"${1:set-id}\", \"${2:sfx-id}\")",
         "StopSound(\"${1:set-id}\", \"${2:sfx-id}\")",
-        "NextLevel"
+        "NextLevel(${1:true})",
+        "PreviousLevel"
 	]
 }
