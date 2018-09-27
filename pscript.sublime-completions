@@ -39,6 +39,7 @@
         "ChangeDayTime(${1:minutes}, ${2:1.0})",
         "HideEnemies",
         "ShowEnemies",
-        "TeleportTo(${1:entity[0:0]}, \"${2:TriggerArea}\")"
+        "TeleportTo(${1:entity[0:0]}, \"${2:TriggerArea}\")",
+        "Blend(${1:1.0})",
 	]
 }
