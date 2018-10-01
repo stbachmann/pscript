@@ -13,7 +13,7 @@
         "SetActive(\"${1:object-id}\", ${2:true})",
         "SetBoolean(\"${1:var-id}\", ${2:true})",
         "MoveCamera(\"${1:object-id}\", ${2:time})",
-        "Explosion(\"${1:object-id\")",
+        "Explosion(\"${1:object-id\"})",
         "SetAttributeActive(\"${1:object-id}\", \"${1:attr.class}\", ${2:true})",
         "SetDoor(\"${1:object-id}\", ${2:true})",
         "RunScript(\"${1:object-id}\")",
